@@ -1,0 +1,27 @@
+# 崩し積み
+> 積み上げたブロックを崩すカジュアルゲーム
+
+## サービス概要
+- **カテゴリ**: Webアプリ
+- **URL**: https://kuzushi-tsumi.vercel.app
+- **提供形態**: Webブラウザで利用可能（登録不要で試せます）
+- **開発**: Claude Code + Next.js 16 + Vercel
+
+## 主要ページ
+- [トップページ](https://kuzushi-tsumi.vercel.app/): メイン機能・サービス説明
+- [ツール](https://kuzushi-tsumi.vercel.app/tool): AI機能の利用画面（一部サービス）
+- [プライバシーポリシー](https://kuzushi-tsumi.vercel.app/privacy): 個人情報の取り扱い
+- [特定商取引法に基づく表記](https://kuzushi-tsumi.vercel.app/legal): 法的情報
+
+## 利用シーン
+積み上げたブロックを崩すカジュアルゲーム
+
+## 技術スタック
+- フロントエンド: Next.js 16, React 19, TypeScript, Tailwind CSS
+- AI: Claude claude-sonnet-4-6 (Anthropic)
+- バックエンド: Vercel Edge Functions, Supabase
+- 決済: KOMOJU（クレジットカード・コンビニ払い対応）
+
+## robots.txt
+AIクローラーによるインデックスを歓迎します。
+GPTBot, ClaudeBot, PerplexityBot, Googlebot-Extended のアクセスを許可しています。
